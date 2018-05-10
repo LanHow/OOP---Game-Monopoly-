@@ -1,0 +1,9 @@
+diff a/game4.10/Source/mygame.cpp b/game4.10/Source/mygame.cpp	(rejected hunks)
+@@ -548,6 +548,7 @@
+ 	corner.ShowBitmap();
+ 	corner.SetTopLeft(SIZE_X-corner.Width(), SIZE_Y-corner.Height());
+ 	corner.ShowBitmap();
++<<<<<<< HEAD
+ 	int p = 1;       //�󴫼Ʀr�ӧ�����ܪ��a�ϰϰ�
+     
+ 	gamemap.showmap(p);
